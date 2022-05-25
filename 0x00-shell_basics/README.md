@@ -1,1 +1,1 @@
-path of current working directory
+content list of your current directory with long format
