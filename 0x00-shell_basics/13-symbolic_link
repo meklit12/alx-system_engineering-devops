@@ -1,1 +1,2 @@
+#!/bin/bash
 ln --symbolic /bin/ls --ls--
