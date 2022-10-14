@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# displays Best School 10 times
+
+COUNTER=1
+while [ "$COUNTER" -le 10 ]; do
+	echo "Best School"
+	let COUNTER=COUNTER+1
+done
