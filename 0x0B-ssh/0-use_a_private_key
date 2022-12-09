@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
 NhAAAAAwEAAQAAAYEAvVBvo0hkIO6BZYQzjtK6ofhhSQZnxCQ3i/hf9TFrQB4WP6x5qkBX
@@ -36,3 +37,8 @@ nFhX7CFhicnsidfFV8zi3DYxChNvm8vshVicrMsKrjy6sZtSiFhbwMgOVXsx6yVkTtPDFn
 ocIhvL+u825LYn6ZZtZsSiv/Fp/gQmdBib44LSqIryIADZjBeuh63U64aLbiCCJ7NH1ik7
 SVsUgi3AtAWlcAAAARcm9vdEAxMTEzYmI5NDQ3OTMBAg==
 -----END OPENSSH PRIVATE KEY-----
+=======
+#!/usr/bin/env bash
+# Use a private key
+ssh -i ~/.ssh/school ubuntu@35.229.93.37
+>>>>>>> 80ad74c1bb641f0c76ccfc154507be7cfff346cc
